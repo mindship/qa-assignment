@@ -1,7 +1,7 @@
 # QA Assignemnt
 
 Write down the test scenarios of the twitter home page.
->Website: https://twitter.com/home
+>Website: https://twitter.com/home (after logging in)
 
 ## Instructions for the Assignment
 
